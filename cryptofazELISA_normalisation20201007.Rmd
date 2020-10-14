@@ -7,6 +7,12 @@ output:
     code_folding: hide
 ---
 
+## License
+
+The R markdown code that generated this document is licensed under an MIT software license.
+
+The document itself, and all graphs, tables, figures and text within it, is licensed under a Creative Commons Attribution 4.0 International license (CC-BY).
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, fig.width=16, fig.height=9, warning=F, message=F)
 
